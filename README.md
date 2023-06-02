@@ -7,9 +7,21 @@
 <br />
 
 Soy un apasionado Front-end Developer autodidacta de Colombia.
+<p>
+  <a href="https://skillicons.dev">
+    <img height="5em" src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <br />
 
+<p>
+  <a href="https://skillicons.dev">
+    <img height="10em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
+  </a>
+</p>
+
+<br />
 
 <div align="center">
   <a href="https://github.com/DavidZG312">
