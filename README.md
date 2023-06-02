@@ -9,8 +9,8 @@
 
 <p>
 Soy un apasionado Front-end Developer autodidacta de Colombia.
-  <a target='_blank' href="https://skillicons.dev" text-decoration="none">
-    <img height="12em" src="https://skillicons.dev/icons?i=linkedin" /> 
+  <a target='_blank' href="https://www.linkedin.com/in/davidzabalagranados/" text-decoration="none">
+    <img height="12em" src="https://skillicons.dev/icons?i=linkedin" alt="skillicons" /> 
   </a>
 </p>
 
@@ -18,7 +18,7 @@ Soy un apasionado Front-end Developer autodidacta de Colombia.
 
 <p>
   <a target='_blank' href="https://skillicons.dev">
-    <img height="30em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
+    <img height="30em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" alt="skillicons"  />
   </a>
 </p>
 
