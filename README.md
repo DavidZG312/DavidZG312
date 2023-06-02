@@ -1,7 +1,7 @@
-<h3 align="center" style="margin-bottom: 10px;">
+<h3 align="center" >
   ¡Bienvenidos a mi perfil de GitHub! 
 </h3>
-
+<br />
 Soy un apasionado Front-end Developer autodidacta de Colombia.
 
 <div align="center">
