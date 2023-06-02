@@ -2,7 +2,7 @@
   ¡Bienvenidos a mi perfil de GitHub! 
 </h3>
 
-Soy un apasionado Front-end Developer de Colombia.
+Soy un apasionado Front-end Developer autodidacta de Colombia.
 
 <div align="center">
   <a href="https://github.com/DavidZG312">
