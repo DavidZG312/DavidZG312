@@ -10,7 +10,7 @@
 <p>
 Soy un apasionado Front-end Developer autodidacta de Colombia.
   <a target='_blank' href="https://www.linkedin.com/in/davidzabalagranados/" text-decoration="none">
-    <img height="12em" src="https://skillicons.dev/icons?i=linkedin" alt="skillicons" /> 
+    <img height="13em" src="https://skillicons.dev/icons?i=linkedin" alt="skillicons" /> 
   </a>
 </p>
 
