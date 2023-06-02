@@ -5,12 +5,9 @@
 
 <br />
 <br />
-<br />
 
 Soy un apasionado Front-end Developer autodidacta de Colombia.
 
-<br />
-<br />
 <br />
 
 
