@@ -1,8 +1,18 @@
 <h3 align="center" >
   ¡Bienvenidos a mi perfil de GitHub! 
 </h3>
+
+
 <br />
+<br />
+<br />
+
 Soy un apasionado Front-end Developer autodidacta de Colombia.
+
+<br />
+<br />
+<br />
+
 
 <div align="center">
   <a href="https://github.com/DavidZG312">
