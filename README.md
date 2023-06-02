@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="center" style="margin-bottom: 10px;">
   ¡Bienvenidos a mi perfil de GitHub! 
 </h3>
 
