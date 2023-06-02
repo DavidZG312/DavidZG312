@@ -8,15 +8,16 @@
 
 
 <p>
-  <a href="https://skillicons.dev" textDecoration="none">
-   Soy un apasionado Front-end Developer autodidacta de Colombia. <img height="12em" src="https://skillicons.dev/icons?i=linkedin" /> 
+Soy un apasionado Front-end Developer autodidacta de Colombia.
+  <a target='_blank' href="https://skillicons.dev" text-decoration="none">
+    <img height="12em" src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
 </p>
 
 <br />
 
 <p>
-  <a href="https://skillicons.dev">
+  <a target='_blank' href="https://skillicons.dev">
     <img height="30em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
   </a>
 </p>
