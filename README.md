@@ -9,7 +9,7 @@
 Soy un apasionado Front-end Developer autodidacta de Colombia.
 <p>
   <a href="https://skillicons.dev">
-    <img height="5em" src="https://skillicons.dev/icons?i=linkedin" />
+    <img height="5em" src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Soy un apasionado Front-end Developer autodidacta de Colombia.
 
 <p>
   <a href="https://skillicons.dev">
-    <img height="10em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
+    <img height="20em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
   </a>
 </p>
 
