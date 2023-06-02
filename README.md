@@ -6,10 +6,10 @@
 <br />
 <br />
 
-Soy un apasionado Front-end Developer autodidacta de Colombia.
+
 <p>
-  <a href="https://skillicons.dev">
-    <img height="5em" src="https://skillicons.dev/icons?i=linkedin" /> 
+  <a href="https://skillicons.dev" textDecoration="none">
+   Soy un apasionado Front-end Developer autodidacta de Colombia. <img height="12em" src="https://skillicons.dev/icons?i=linkedin" /> 
   </a>
 </p>
 
@@ -17,11 +17,9 @@ Soy un apasionado Front-end Developer autodidacta de Colombia.
 
 <p>
   <a href="https://skillicons.dev">
-    <img height="20em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
+    <img height="30em" src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,redux,git,bootstrap,tailwind,sass,materialui" />
   </a>
 </p>
-
-<br />
 
 <div align="center">
   <a href="https://github.com/DavidZG312">
