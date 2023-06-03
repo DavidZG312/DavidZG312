@@ -14,7 +14,7 @@ Soy un apasionado Front-end Developer autodidacta de Colombia.
   </a>
 </p>
 
-## Quiere conocer mas acerca de mi? 
+## Quiere conocer más acerca de mi? 
 ### 💻 Visita [mi sitio web](https://david-zabala.netlify.app) 😎
 <br />
 
